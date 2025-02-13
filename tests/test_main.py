@@ -1,6 +1,6 @@
 # tests/test_main.py
 import unittest
-from src.module import greet
+from src.utils.helper import greet
 
 class TestModule(unittest.TestCase):
     def test_greet(self):
