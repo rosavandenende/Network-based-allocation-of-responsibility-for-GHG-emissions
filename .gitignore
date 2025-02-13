@@ -1,3 +1,15 @@
+# Ignore Python cache and venv
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Ignore test cache
+.pytest_cache/
+.vscode/
+.v/
+
 # Virtual environment
 venv/
 __pycache__/
