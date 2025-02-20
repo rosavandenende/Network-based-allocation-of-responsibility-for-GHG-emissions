@@ -22,3 +22,6 @@ __pycache__/
 # Environment files
 .env
 
+src/data/*.xlsb
+src/data/*.xlsx
+src/data/WIOT2014_Nov16_ROW_sans_cons.csv
